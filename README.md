@@ -1,3 +1,3 @@
-This is SnapSound, an App built for capstone project of MIT BWSI Cog*Works Program. It extracts visual information and generate a spotify playlist based on the sentiment analysis and user's preferences.
+This is SnapSound, an App built for the capstone project of MIT BWSI Cog*Works Program. It extracts visual information and generates a Spotify playlist based on the sentiment analysis and user's preferences.
 
-Contributer: George, Anika, Yash, Bella
+Contributors: George Wang, Anika Prakash, Yash Singh, Bella Qu
